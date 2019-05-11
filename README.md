@@ -1,6 +1,6 @@
 # pycs2
 Python translations of Cybership II algorithms developed while working on my thesis
-[Lindegaard (2003)](https://brage.bibsys.no/xmlui/handle/11250/259448).
+[Lindegaard (2003)](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/259448).
 
 ## Why Python?
  Matlab was everyone's main tool back in 1999-2001, and essentialy every module
